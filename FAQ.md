@@ -14,7 +14,7 @@
 > **Yes**, Using the plugin settings, it's possible to control individually the creation of `device_role`, `device_type`, `manufacturer` & `platform`
 
 ```
-# configuration.py
+# nautobot_config.py
 # If need you can override the default settings
 # PLUGINS_CONFIG = {
 #   "nautobot_device_onboarding": {
